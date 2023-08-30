@@ -1,0 +1,2 @@
+- Olá olá, eu sou o @TheProtogen, ou Vitor para os brothers;
+- Aberto para novas ideias, e dicas de programação.
