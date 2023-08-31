@@ -1,7 +1,6 @@
 <h1 align="center">Hey Hey It's me, @TheProtogen</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theprotogen&label=Profile%20views&color=0e75b6&style=flat" alt="theprotogen" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
