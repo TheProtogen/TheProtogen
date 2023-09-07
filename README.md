@@ -1,5 +1,4 @@
 <h2 align="center">W E L C O M E</h2>
-<img align="right" width="300" height="300" src="https://github.com/TheProtogen/TheProtogen/blob/main/drift-cars.gif" />
 
 <h3 align="center">Linguagens de programação que sei usar:</h3>
 
