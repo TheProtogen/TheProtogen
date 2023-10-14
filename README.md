@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oldenburg&pause=1000&color=A70000&center=true&vCenter=true&random=false&width=435&lines=HELLO%2C+HUMAN.;WELCOME+TO+MY+HUMBLE+PLACE..." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oldenburg&pause=1000&color=A70000&center=true&vCenter=true&random=false&width=435&lines=HELLO%2C+HUMAN.;WELCOME+TO+MY+HUMBLE+PLACE...)](https://git.io/typing-svg)
 
 <h3 align="center">Linguagens de programação que sei usar:</h3>
 
