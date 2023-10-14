@@ -6,4 +6,4 @@
 
 <hr>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oldenburg&pause=1000&color=A70000&random=false&width=435&lines=HELLO%2C+HUMAN.;WELCOME+TO+MY+HUMBLE+PLACE..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&duration=750&pause=2100&color=FF35EA&random=false&width=435&lines=HELLO%2C+HUMAN.;WELCOME+TO+MY+HUMBLE+PLACE...;HERE+IS+MY+WORKSHOP;FEEL+FREE+TO+GIVE+SUGGESTIONS..." alt="Typing SVG" /></a>
