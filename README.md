@@ -1,4 +1,4 @@
-<h2 align="center">W E L C O M E</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oldenburg&pause=1000&color=A70000&center=true&random=false&width=435&lines=HELLO%2C+HUMAN.;WELCOME+TO+MY+HUMBLE+PLACE..." alt="Typing SVG" /></a>
 
 <h3 align="center">Linguagens de programação que sei usar:</h3>
 
